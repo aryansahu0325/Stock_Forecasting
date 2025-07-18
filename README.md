@@ -55,3 +55,5 @@ This project applies various time series forecasting techniques to predict stock
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
